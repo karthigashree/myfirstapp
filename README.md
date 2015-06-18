@@ -1,6 +1,5 @@
 # myfirstapp
-Its a simple calculations using arithmatic operations......
-       ADD SIMPLE CODE IN GITHUB :
+How do i do this..here some easy steps to follow to put a code in github..
            First create an account in github by http://github.com  and login and go to your page ..
 
  
