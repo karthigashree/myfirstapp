@@ -17,14 +17,16 @@ Create new folder (rails)in  your desktop(or any where)
               
               cd desktop
     
-     Inside this move to a folder what you created initially 
+       Inside this move to a folder what you created initially 
               
               cd rails….
      
-     Then type 
+       Then type 
      
               git clone https://github.com/username/foldername.git(eg.git clone https://github.com/karthigashree/testing.git)  
-     it  just copy the readme file what you are created in github to your  testing folder(created in your desktop)…
+              
+              
+it  just copy the readme file what you are created in github to your  testing folder(created in your desktop)…
     Now inside the rails folder you see testing
     cd testing (new repository created in your github page)
    Then create any ruby file and save in your folder…
