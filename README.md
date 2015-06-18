@@ -1,16 +1,16 @@
 # myfirstapp
 Its a simple calculations using arithmatic operations......
-                     # ADD SIMPLE CODE IN GITHUB :
-First create an account in github by http://github.com  and login and go to your page ..
+       ADD SIMPLE CODE IN GITHUB :
+           First create an account in github by http://github.com  and login and go to your page ..
 
  
-On the right bottom we have an option new repository open it…
+             On the right bottom we have an option new repository open it…
 
 Then, add repository name (testing)
-  Give some  discription of your project 
-  Choose public
-  And click intialize this repository by README
-  Then create repository
+    Give some  discription of your project 
+    Choose public
+    And click intialize this repository by README
+    Then create repository
 
 Create new folder (rails)in  your desktop(or any where)
      Then open terminal and change the curent directory to desktop by cd desktop
