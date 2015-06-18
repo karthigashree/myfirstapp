@@ -3,8 +3,11 @@
 prompt = "? " 
 puts "Enter 1 or 2 or 3 or 4 or 5  or 6 ." 
 puts "Enter 1 for addition"
-puts "Enter 1 for addition"
-puts "Enter 1 for addition"puts "Enter 1 for addition"
+puts "Enter 2 for subraction"
+puts "Enter 3 for multipication"
+puts "Enter 4 for division"
+puts "Enter 5 for modulo"
+puts "Enter 6 for power"
 print prompt
 input = gets.chomp.to_i
 
