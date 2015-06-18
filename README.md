@@ -1,6 +1,10 @@
 # myfirstapp
 How do i do this..here some easy steps to follow to put a code in github..
-           First create an account in github by http://github.com  and login and go to your page ..
+           First create an account in github by
+           
+           http://github.com 
+           
+           and login and go to your page ..
 
  
              On the right bottom we have an option new repository open it…
