@@ -28,9 +28,14 @@ Create new folder (rails)in  your desktop(or any where)
               
 it  just copy the readme file what you are created in github to your  testing folder(created in your desktop)…
     Now inside the rails folder you see testing
-    cd testing (new repository created in your github page)
+                
+                
+           cd testing (new repository created in your github page)
+  
+  
    Then create any ruby file and save in your folder…
 Then do the following command
+
     git status
            By doing this you see what the files you are added  
     git add filename.rb
@@ -39,5 +44,7 @@ Then do the following command
     git status
             By this you added the file and you see
     git commit –m “any text”
-   git push origin master
-            Now open your github page just refresh it  your ruby file is added like this….. 
+    git push origin master
+            
+            
+Now open your github page just refresh it  your ruby file is added like this….. 
