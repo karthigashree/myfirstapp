@@ -2,6 +2,9 @@
 
 prompt = "? " 
 puts "Enter 1 or 2 or 3 or 4 or 5  or 6 ." 
+puts "Enter 1 for addition"
+puts "Enter 1 for addition"
+puts "Enter 1 for addition"puts "Enter 1 for addition"
 print prompt
 input = gets.chomp.to_i
 
